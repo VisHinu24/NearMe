@@ -1,6 +1,7 @@
 # Ex04 Places Around Me
-## Date: 
-
+## Date: 05/04/2024
+## Name : H Vishinu 
+## Reg.No : 212223220124
 ## AIM
 To develop a website to display details about the places around my house.
 
